@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "SimpliFI Rate Calculator (Basic)",
+  "version": "1.0.0",
+  "description": "Offline Chrome extension: simple rate & margin calculator (no frameworks).",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "SimpliFI Rate Calculator"
+  }
+}
